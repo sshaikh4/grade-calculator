@@ -8,7 +8,7 @@ from grade_weights import GradeWeights
 
 class GradeCalculator:
     """
-    Calculates the overall course grade for ENPM611.
+    Calculates the overall course grade for ENPM611- 0101.
     """
     
     @staticmethod
